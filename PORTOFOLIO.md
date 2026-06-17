@@ -1,4 +1,4 @@
-# Hi, I'm tihyesme 👋
+# Hi, I'm tih👋
 
 ## Tech Stack
 - HTML
